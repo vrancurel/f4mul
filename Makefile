@@ -1,5 +1,5 @@
 
-CFLAGS = -mavx2 -g -O2
+CFLAGS = -Wunused -mavx2 -g #-O3
 
 OBJS = f4mul.o
 
